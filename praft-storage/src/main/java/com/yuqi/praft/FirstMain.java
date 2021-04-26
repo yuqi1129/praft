@@ -41,6 +41,11 @@ public class FirstMain {
         } catch (RocksDBException e) {
             e.printStackTrace();
         }
+
+        //introduce thrift/pb
+        //introduce node register
+        //spotlesss & checkstyle
+        //raft log entry
     }
 }
 
